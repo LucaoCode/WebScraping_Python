@@ -1,4 +1,4 @@
-# 💫 Web Scraping com Python
+# 💫 WebCrawler Python
 
 Este repositório tem o intuito de mostrar algumas aplicaçãos de web scraping desenvolvida em Python. Ele utiliza bibliotecas populares como requests e BeautifulSoup para extrair dados de páginas da web. O objetivo é demonstrar como coletar, analisar e armazenar informações de sites para usos diversos.
 
